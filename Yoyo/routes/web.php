@@ -9,3 +9,5 @@ Route::get('/', function () {
 Route :: get ('/', function () {
     return view ('mantap');
 });
+
+// BWP Mantap jarene ko Billie
